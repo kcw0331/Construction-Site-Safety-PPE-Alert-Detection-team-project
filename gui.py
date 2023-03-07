@@ -2,7 +2,7 @@ import sys, os, copy
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QIcon, QPixmap, QImage
-
+# 내용을 수정
 from datetime import datetime
 import torch.cuda
 import cv2
